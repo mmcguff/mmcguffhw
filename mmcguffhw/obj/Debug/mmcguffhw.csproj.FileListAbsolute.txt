@@ -1,0 +1,41 @@
+C:\Users\matth_000\Documents\Visual Studio 2017\Projects\mmcguffhw\mmcguffhw\bin\Bot Application.dll.config
+C:\Users\matth_000\Documents\Visual Studio 2017\Projects\mmcguffhw\mmcguffhw\bin\Bot Application.dll
+C:\Users\matth_000\Documents\Visual Studio 2017\Projects\mmcguffhw\mmcguffhw\bin\Bot Application.pdb
+C:\Users\matth_000\Documents\Visual Studio 2017\Projects\mmcguffhw\mmcguffhw\bin\Autofac.dll
+C:\Users\matth_000\Documents\Visual Studio 2017\Projects\mmcguffhw\mmcguffhw\bin\Chronic.dll
+C:\Users\matth_000\Documents\Visual Studio 2017\Projects\mmcguffhw\mmcguffhw\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\matth_000\Documents\Visual Studio 2017\Projects\mmcguffhw\mmcguffhw\bin\Microsoft.Bot.Builder.dll
+C:\Users\matth_000\Documents\Visual Studio 2017\Projects\mmcguffhw\mmcguffhw\bin\Microsoft.Bot.Connector.dll
+C:\Users\matth_000\Documents\Visual Studio 2017\Projects\mmcguffhw\mmcguffhw\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\matth_000\Documents\Visual Studio 2017\Projects\mmcguffhw\mmcguffhw\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\matth_000\Documents\Visual Studio 2017\Projects\mmcguffhw\mmcguffhw\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\matth_000\Documents\Visual Studio 2017\Projects\mmcguffhw\mmcguffhw\bin\Newtonsoft.Json.dll
+C:\Users\matth_000\Documents\Visual Studio 2017\Projects\mmcguffhw\mmcguffhw\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\matth_000\Documents\Visual Studio 2017\Projects\mmcguffhw\mmcguffhw\bin\System.Net.Http.Formatting.dll
+C:\Users\matth_000\Documents\Visual Studio 2017\Projects\mmcguffhw\mmcguffhw\bin\System.Web.Http.dll
+C:\Users\matth_000\Documents\Visual Studio 2017\Projects\mmcguffhw\mmcguffhw\bin\System.Web.Http.WebHost.dll
+C:\Users\matth_000\Documents\Visual Studio 2017\Projects\mmcguffhw\mmcguffhw\bin\Autofac.xml
+C:\Users\matth_000\Documents\Visual Studio 2017\Projects\mmcguffhw\mmcguffhw\bin\Microsoft.Bot.Builder.xml
+C:\Users\matth_000\Documents\Visual Studio 2017\Projects\mmcguffhw\mmcguffhw\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\matth_000\Documents\Visual Studio 2017\Projects\mmcguffhw\mmcguffhw\bin\Microsoft.Bot.Connector.xml
+C:\Users\matth_000\Documents\Visual Studio 2017\Projects\mmcguffhw\mmcguffhw\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\matth_000\Documents\Visual Studio 2017\Projects\mmcguffhw\mmcguffhw\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\matth_000\Documents\Visual Studio 2017\Projects\mmcguffhw\mmcguffhw\bin\Newtonsoft.Json.xml
+C:\Users\matth_000\Documents\Visual Studio 2017\Projects\mmcguffhw\mmcguffhw\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\matth_000\Documents\Visual Studio 2017\Projects\mmcguffhw\mmcguffhw\bin\System.Net.Http.Formatting.xml
+C:\Users\matth_000\Documents\Visual Studio 2017\Projects\mmcguffhw\mmcguffhw\bin\System.Web.Http.xml
+C:\Users\matth_000\Documents\Visual Studio 2017\Projects\mmcguffhw\mmcguffhw\bin\System.Web.Http.WebHost.xml
+C:\Users\matth_000\Documents\Visual Studio 2017\Projects\mmcguffhw\mmcguffhw\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\matth_000\Documents\Visual Studio 2017\Projects\mmcguffhw\mmcguffhw\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\matth_000\Documents\Visual Studio 2017\Projects\mmcguffhw\mmcguffhw\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\matth_000\Documents\Visual Studio 2017\Projects\mmcguffhw\mmcguffhw\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\matth_000\Documents\Visual Studio 2017\Projects\mmcguffhw\mmcguffhw\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\matth_000\Documents\Visual Studio 2017\Projects\mmcguffhw\mmcguffhw\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\matth_000\Documents\Visual Studio 2017\Projects\mmcguffhw\mmcguffhw\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\matth_000\Documents\Visual Studio 2017\Projects\mmcguffhw\mmcguffhw\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\matth_000\Documents\Visual Studio 2017\Projects\mmcguffhw\mmcguffhw\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\matth_000\Documents\Visual Studio 2017\Projects\mmcguffhw\mmcguffhw\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\matth_000\Documents\Visual Studio 2017\Projects\mmcguffhw\mmcguffhw\obj\Debug\mmcguffhw.csprojResolveAssemblyReference.cache
+C:\Users\matth_000\Documents\Visual Studio 2017\Projects\mmcguffhw\mmcguffhw\obj\Debug\mmcguffhw.csproj.CoreCompileInputs.cache
+C:\Users\matth_000\Documents\Visual Studio 2017\Projects\mmcguffhw\mmcguffhw\obj\Debug\Bot Application.dll
+C:\Users\matth_000\Documents\Visual Studio 2017\Projects\mmcguffhw\mmcguffhw\obj\Debug\Bot Application.pdb
