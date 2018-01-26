@@ -18,7 +18,17 @@ namespace mmcguffhw
         {
             if (activity.Type == ActivityTypes.Message)
             {
+                //logging conversation to database
+                Dialogs.LogDatabase.WriteToDatabase
+                (
+                      conversationid: activity.Conversation.Id
+                    , username: activity.From.Name
+                    , channel: activity.ChannelId
+                    , message: activity.Text
+                );
+
                 await Conversation.SendAsync(activity, () => new Dialogs.RootDialog());
+
             }
             else
             {

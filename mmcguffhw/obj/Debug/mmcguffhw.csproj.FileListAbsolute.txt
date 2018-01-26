@@ -39,3 +39,25 @@ C:\Users\matth_000\Documents\Visual Studio 2017\Projects\mmcguffhw\mmcguffhw\obj
 C:\Users\matth_000\Documents\Visual Studio 2017\Projects\mmcguffhw\mmcguffhw\obj\Debug\mmcguffhw.csproj.CoreCompileInputs.cache
 C:\Users\matth_000\Documents\Visual Studio 2017\Projects\mmcguffhw\mmcguffhw\obj\Debug\Bot Application.dll
 C:\Users\matth_000\Documents\Visual Studio 2017\Projects\mmcguffhw\mmcguffhw\obj\Debug\Bot Application.pdb
+C:\Users\matth_000\Documents\Visual Studio 2017\Projects\mmcguffhw\mmcguffhw\bin\EntityFramework.dll
+C:\Users\matth_000\Documents\Visual Studio 2017\Projects\mmcguffhw\mmcguffhw\bin\EntityFramework.SqlServer.dll
+C:\Users\matth_000\Documents\Visual Studio 2017\Projects\mmcguffhw\mmcguffhw\bin\EntityFramework.xml
+C:\Users\matth_000\Documents\Visual Studio 2017\Projects\mmcguffhw\mmcguffhw\bin\EntityFramework.SqlServer.xml
+C:\Users\matth_000\Documents\Visual Studio 2017\Projects\mmcguffhw\mmcguffhw\bin\Antlr3.Runtime.dll
+C:\Users\matth_000\Documents\Visual Studio 2017\Projects\mmcguffhw\mmcguffhw\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\matth_000\Documents\Visual Studio 2017\Projects\mmcguffhw\mmcguffhw\bin\System.Web.Helpers.dll
+C:\Users\matth_000\Documents\Visual Studio 2017\Projects\mmcguffhw\mmcguffhw\bin\System.Web.Mvc.dll
+C:\Users\matth_000\Documents\Visual Studio 2017\Projects\mmcguffhw\mmcguffhw\bin\System.Web.Optimization.dll
+C:\Users\matth_000\Documents\Visual Studio 2017\Projects\mmcguffhw\mmcguffhw\bin\System.Web.Razor.dll
+C:\Users\matth_000\Documents\Visual Studio 2017\Projects\mmcguffhw\mmcguffhw\bin\System.Web.WebPages.Deployment.dll
+C:\Users\matth_000\Documents\Visual Studio 2017\Projects\mmcguffhw\mmcguffhw\bin\System.Web.WebPages.dll
+C:\Users\matth_000\Documents\Visual Studio 2017\Projects\mmcguffhw\mmcguffhw\bin\System.Web.WebPages.Razor.dll
+C:\Users\matth_000\Documents\Visual Studio 2017\Projects\mmcguffhw\mmcguffhw\bin\WebGrease.dll
+C:\Users\matth_000\Documents\Visual Studio 2017\Projects\mmcguffhw\mmcguffhw\bin\Antlr3.Runtime.pdb
+C:\Users\matth_000\Documents\Visual Studio 2017\Projects\mmcguffhw\mmcguffhw\bin\System.Web.Helpers.xml
+C:\Users\matth_000\Documents\Visual Studio 2017\Projects\mmcguffhw\mmcguffhw\bin\System.Web.Mvc.xml
+C:\Users\matth_000\Documents\Visual Studio 2017\Projects\mmcguffhw\mmcguffhw\bin\System.Web.Optimization.xml
+C:\Users\matth_000\Documents\Visual Studio 2017\Projects\mmcguffhw\mmcguffhw\bin\System.Web.Razor.xml
+C:\Users\matth_000\Documents\Visual Studio 2017\Projects\mmcguffhw\mmcguffhw\bin\System.Web.WebPages.xml
+C:\Users\matth_000\Documents\Visual Studio 2017\Projects\mmcguffhw\mmcguffhw\bin\System.Web.WebPages.Deployment.xml
+C:\Users\matth_000\Documents\Visual Studio 2017\Projects\mmcguffhw\mmcguffhw\bin\System.Web.WebPages.Razor.xml
