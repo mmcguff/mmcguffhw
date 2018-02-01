@@ -11,7 +11,7 @@ namespace mmcguffhw.Dialogs
         public static void WriteToDatabase(string conversationid, string username, string channel, string message)
         {           
             // Instantiate the BotData dbContext
-            Models.BotDataEntities DB = new Models.BotDataEntities();
+            Models.azuredb DB = new Models.azuredb();
 
             // Create a new UserLog object
             Models.UserLog NewUserLog = new Models.UserLog
